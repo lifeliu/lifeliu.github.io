@@ -1,0 +1,6 @@
+_site
+.svn
+.DS_Store
+.sass-cache
+*.sh
+readme.txt
