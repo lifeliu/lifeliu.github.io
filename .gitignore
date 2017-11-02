@@ -3,5 +3,5 @@ _site
 .DS_Store
 .sass-cache
 *.sh
-readme.txt
-publish.sh
+*.txt
+*.lock
