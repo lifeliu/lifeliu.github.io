@@ -6,6 +6,8 @@ categories: story
 tags: 故事
 ---
 
+![折耳猫](http://image.sideproject.cn/zheermao.jpg)
+
 有一个博士分到一家研究所，成为学历最高的一个人。
 
 有一天他到单位后面的小池塘去钓鱼，正好正副所长在他的一左一右，也在钓鱼。他只是微微点了点头，这两个本科生，有啥好聊的呢？
@@ -20,4 +22,3 @@ tags: 故事
 
 学历代表过去，只有学习力才能代表将来。尊重经验的人，才能少走弯路。一个好的团队，也应该是学习型的团队。
 
-![折耳猫](http://image.sideproject.cn/zheermao.jpg)
